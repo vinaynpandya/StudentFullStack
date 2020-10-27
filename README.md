@@ -1,2 +1,2 @@
 # StudentFullStack
-Angular 10 plus Spring Boot Resful service Project
+Angular 10 plus Spring Boot Restful service Project
